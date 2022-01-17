@@ -11,3 +11,6 @@ yarn.lock
 
 # Environment variables
 .env
+
+# Logs
+.pnpm-debug.log
